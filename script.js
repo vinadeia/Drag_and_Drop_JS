@@ -23,7 +23,7 @@ function moveDiv(event){
 function desligaMover(){
 
     movimento = false;
-    verd.style.backgroundColor = 'green';
+    verd.style.backgroundColor = '#6fb9dd';
 }
 
 function ligaMover(event){
